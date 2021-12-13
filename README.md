@@ -1,4 +1,4 @@
-# MACify
+# MACifi
 A Tool to manage MAC Address filtering across multiple Unifi Controllers
 
 Simply, extract contents to a webserver.
