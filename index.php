@@ -11,12 +11,12 @@ $logins = array(
   0 => array(
       'username' => 'admin',
       'password' => 'admin',
-      'password' => 'admin' //or standard
+      'type' => 'admin' //admin or standard
   ),
   1 => array(
       'username' => 'test',
       'password' => 'test',
-      'type' => 'standard' //or standard
+      'type' => 'standard' //admin or standard
   ),
 );
 
